@@ -1,2 +1,3 @@
 wwd
-on server
+onerver
+onc
